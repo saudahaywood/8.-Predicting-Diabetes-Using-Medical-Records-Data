@@ -1,6 +1,3 @@
-Here's a **README** file based on your document:  
-
----
 
 # Predicting Diabetes Using Medical Records Data
 
